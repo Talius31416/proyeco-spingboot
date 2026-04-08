@@ -1,2 +1,2 @@
-# proyeco-spingboot
+# proyecto-spring boot
 un proyecto de gestion de clientes y productos con base de datos
